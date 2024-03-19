@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ihsaa\\Projects\\plants-r-us\\Plants R Us\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0AC7A3-89C3-4FC5-BFB6-113A7BE86FF7}|Plants R Us\\Plants R Us.vbproj|c:\\users\\ihsaa\\projects\\plants-r-us\\plants r us\\plants r us\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7B0AC7A3-89C3-4FC5-BFB6-113A7BE86FF7}|Plants R Us\\Plants R Us.vbproj|solutionrelative:plants r us\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0AC7A3-89C3-4FC5-BFB6-113A7BE86FF7}|Plants R Us\\Plants R Us.vbproj|c:\\users\\ihsaa\\projects\\plants-r-us\\plants r us\\plants r us\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7B0AC7A3-89C3-4FC5-BFB6-113A7BE86FF7}|Plants R Us\\Plants R Us.vbproj|solutionrelative:plants r us\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\ihsaa\\Projects\\plants-r-us\\Plants R Us\\Plants R Us\\Form1.vb",
+              "RelativeDocumentMoniker": "Plants R Us\\Form1.vb",
+              "ToolTip": "C:\\Users\\ihsaa\\Projects\\plants-r-us\\Plants R Us\\Plants R Us\\Form1.vb",
+              "RelativeToolTip": "Plants R Us\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-18T08:01:13.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ihsaa\\Projects\\plants-r-us\\Plants R Us\\Plants R Us\\Form1.vb",
+              "RelativeDocumentMoniker": "Plants R Us\\Form1.vb",
+              "ToolTip": "C:\\Users\\ihsaa\\Projects\\plants-r-us\\Plants R Us\\Plants R Us\\Form1.vb [Design]",
+              "RelativeToolTip": "Plants R Us\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-18T03:39:01.495Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

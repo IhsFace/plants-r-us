@@ -1,0 +1,16 @@
+C:\Users\ihsaa\Projects\plants-r-us\Plants R Us\Plants R Us\bin\Debug\net8.0-windows\Plants R Us.exe
+C:\Users\ihsaa\Projects\plants-r-us\Plants R Us\Plants R Us\bin\Debug\net8.0-windows\Plants R Us.deps.json
+C:\Users\ihsaa\Projects\plants-r-us\Plants R Us\Plants R Us\bin\Debug\net8.0-windows\Plants R Us.runtimeconfig.json
+C:\Users\ihsaa\Projects\plants-r-us\Plants R Us\Plants R Us\bin\Debug\net8.0-windows\Plants R Us.dll
+C:\Users\ihsaa\Projects\plants-r-us\Plants R Us\Plants R Us\bin\Debug\net8.0-windows\Plants R Us.pdb
+C:\Users\ihsaa\Projects\plants-r-us\Plants R Us\Plants R Us\obj\Debug\net8.0-windows\Plants_R_Us.Form1.resources
+C:\Users\ihsaa\Projects\plants-r-us\Plants R Us\Plants R Us\obj\Debug\net8.0-windows\Plants R Us.vbproj.GenerateResource.cache
+C:\Users\ihsaa\Projects\plants-r-us\Plants R Us\Plants R Us\obj\Debug\net8.0-windows\Plants R Us.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihsaa\Projects\plants-r-us\Plants R Us\Plants R Us\obj\Debug\net8.0-windows\Plants R Us.AssemblyInfoInputs.cache
+C:\Users\ihsaa\Projects\plants-r-us\Plants R Us\Plants R Us\obj\Debug\net8.0-windows\Plants R Us.AssemblyInfo.vb
+C:\Users\ihsaa\Projects\plants-r-us\Plants R Us\Plants R Us\obj\Debug\net8.0-windows\Plants R Us.vbproj.CoreCompileInputs.cache
+C:\Users\ihsaa\Projects\plants-r-us\Plants R Us\Plants R Us\obj\Debug\net8.0-windows\Plants R Us.dll
+C:\Users\ihsaa\Projects\plants-r-us\Plants R Us\Plants R Us\obj\Debug\net8.0-windows\refint\Plants R Us.dll
+C:\Users\ihsaa\Projects\plants-r-us\Plants R Us\Plants R Us\obj\Debug\net8.0-windows\Plants R Us.pdb
+C:\Users\ihsaa\Projects\plants-r-us\Plants R Us\Plants R Us\obj\Debug\net8.0-windows\Plants R Us.genruntimeconfig.cache
+C:\Users\ihsaa\Projects\plants-r-us\Plants R Us\Plants R Us\obj\Debug\net8.0-windows\ref\Plants R Us.dll
